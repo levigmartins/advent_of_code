@@ -1,4 +1,4 @@
-f = open("1_input.txt", "r");
+f = open("inputs/1_input.txt", "r");
 
 count = 0;
 array = [0]
