@@ -13,11 +13,11 @@ for x in f:
 
 f.close();
 
-# Answer for part 1
+# part 1
 answer = max(array);
 print(answer);
 
-#Answer for part 2
+# part 2
 sorted_array = sorted(array, key=int, reverse=True);
 answer_part_2 = sorted_array[0] + sorted_array[1] + sorted_array[2];
 print(answer_part_2);

@@ -1,6 +1,6 @@
 f = open("inputs/2_input.txt", "r");
 
-# Part 1
+# part 1
 total_score = 0;
 aux = 0;
 
@@ -40,7 +40,7 @@ for x in f:
 
 print(total_score);
 
-# Part 2
+# part 2
 total_score_part_2 = 0;
 aux = 0;
 
